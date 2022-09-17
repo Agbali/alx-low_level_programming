@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_most_number - print most numbers
+ * print_most_numbers - print most numbers
  * Return: 0
  */
 
-void print_most_number(void)
+void print_most_numbers(void)
 {
 	char n = 0;
 
