@@ -3,5 +3,6 @@
 
 char _putchar(char i);
 int _isupper(int i);
+int _isdigit(int c);
 
 #endif
