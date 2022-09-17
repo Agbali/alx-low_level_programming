@@ -1,9 +1,10 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-char _putchar(char i);
+char _putchar(char n);
 int _isupper(int i);
 int _isdigit(int c);
 int mul(int a, int b);
+void print_numbers(void);
 
 #endif
